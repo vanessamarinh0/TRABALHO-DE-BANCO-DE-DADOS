@@ -4,15 +4,14 @@
 Um parágrafo da descrição do projeto vai aqui
 
 ## Iniciando nosso Mini-Mundo
-![Imagem do WhatsApp de 2023-10-08 à(s) 15 13 00_177a0b94](https://github.com/vanessamarinh0/TRABALHO-DE-BANCO-DE-DADOS/assets/111614156/e76e6284-33a7-4fa6-b9ae-9835f1e8827e)
+![image](https://github.com/vanessamarinh0/TRABALHO-DE-BANCO-DE-DADOS/assets/111614156/34771733-a8f0-4130-8ffb-fd8988b34d18)
+
 
 cliente(**cod_cliente**, nome_cliente, cpf_cliente ,endereco_cliente)
 
 produto(**cod_produto**, tipo_produto, marca_produto, valor_produto)
 
 funcionario(**cod_funcionario**, nome_funcionario, turno_funcionario)
- 
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
 ### 📋 Pré-requisitos
 
@@ -60,46 +59,34 @@ Explique que eles verificam esses testes e porquê.
 Dar exemplos
 ```
 
-## 📦 Implantação
+## 👩🏻‍💻 Tecnologias utilizadas
+Projeto que utiliza uma variedade de tecnologias de desenvolvimento web para a criação de um sistema com conexão com o banco de dados:
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+📍 BrModelo
 
-## 🛠️ Construído com
+📍 PHP
 
-Mencione as ferramentas que você usou para criar seu projeto
+📍 HTML
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
+📍 CSS
 
-## 🖇️ Colaborando
+📍 Visual Studio Code (VSCode)
 
-Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
+📍 GitHub
 
-## 📌 Versão
+## 👥 Autores
+[Alanna Lopes]()
 
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
+[Ana Luiza]()
 
-## ✒️ Autores
+[Antonio Jhonatta](https://github.com/Jhonatta-oliveira)
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
+[Francisca Vanessa](https://github.com/vanessamarinh0)
+
+[Júlia Barros](https://github.com/Juliabarros-info)
+
+[Pedro Wesley](https://github.com/byID887766pedro)
+
 
 * **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
 * **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
-
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
-
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
-
-## 🎁 Expressões de gratidão
-
-* Conte a outras pessoas sobre este projeto 📢;
-* Convide alguém da equipe para uma cerveja 🍺;
-* Um agradecimento publicamente 🫂;
-* etc.
-
-
----
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
