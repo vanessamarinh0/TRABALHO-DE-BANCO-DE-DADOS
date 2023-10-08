@@ -5,8 +5,11 @@ Um parágrafo da descrição do projeto vai aqui
 
 ## Iniciando nosso Mini-Mundo
 ![Imagem do WhatsApp de 2023-10-08 à(s) 15 13 00_177a0b94](https://github.com/vanessamarinh0/TRABALHO-DE-BANCO-DE-DADOS/assets/111614156/e76e6284-33a7-4fa6-b9ae-9835f1e8827e)
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
+cliente(**cod_cliente**, nome_cliente, cpf_cliente ,endereco_cliente)
+produto(**cod_produto**, tipo_produto, marca_produto, valor_produto)
+funcionario(**cod_funcionario**, nome_funcionario, turno_funcionario)
+ 
 Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
 ### 📋 Pré-requisitos
