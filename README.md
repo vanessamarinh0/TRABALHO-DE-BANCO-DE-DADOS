@@ -7,20 +7,46 @@ Um parágrafo da descrição do projeto vai aqui
 ![image](https://github.com/vanessamarinh0/TRABALHO-DE-BANCO-DE-DADOS/assets/111614156/34771733-a8f0-4130-8ffb-fd8988b34d18)
 
 
-cliente(**cod_cliente**, nome_cliente, cpf_cliente ,endereco_cliente)
+1. Vamos separar todas as tabelas com seus atributos e indicando sua respectiva chave primária(pk):
+   
+         cliente(**cod_cliente**, nome_cliente,cpf_cliente,endereco_cliente)
 
-produto(**cod_produto**, tipo_produto, marca_produto, valor_produto)
+          produto(**cod_produto**, cod_cliente,tipo_produto, marca_produto,valor_produto)
+            cod_cliente referencia cliente
+             cod_funcionario referencia funcionario
 
-funcionario(**cod_funcionario**, nome_funcionario, turno_funcionario)
+          funcionario(**cod_funcionario**, nome_funcionario,turno_funcionario)
+   
+3. Vamos analisar o relacionamento entre essas tabelas:
 
-### 📋 Pré-requisitos
+    a. Relacionamento entre *cliente* e *produto*:
+     - (1, 1): Um produto só pode ser comprado por um cliente.
+	  - (1, n): Um cliente pode comprar vários produtos. 	
+		
+  	Identificamos que produto tem uma chave estrangeira(fk) vinda de cliente, o **n** da entidade Cliente indo para a entidade Produto.
 
-De que coisas você precisa para instalar o software e como instalá-lo?
+    Cliente não tem chave estrangeira(fk), apenas sua chave primária(pk) mesmo.
 
-```
-Dar exemplos
-```
+        cliente(**cod_cliente**, nome_cliente,cpf_cliente,endereco_cliente)
 
+        produto(**cod_produto**, cod_cliente,tipo_produto, marca_produto,valor_produto)
+            cod_cliente referencia cliente
+   
+      b. Relacionamento entre *produto* e *funcionario*:
+      - (1, 1): Um produto só pode ser vendido por um funcionário.
+	  - (1, n): Um funcionário pode vender vários produtos.
+  
+     Identificamos que produto tem uma chave estrangeira(fk) vinda de cliente, o **n** da entidade Funcionário indo para a entidade Produto.
+
+    Funcionario não tem chave estrangeira(fk), apenas sua chave primária(pk) mesmo.
+
+        funcionario(**cod_funcionario**, nome_funcionario,turno_funcionario)
+
+        produto(**cod_produto**, cod_funcionario,tipo_produto, marca_produto,valor_produto)
+            cod_funcionario referencia funcionario
+
+      
+   
 ### 🔧 Instalação
 
 Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
