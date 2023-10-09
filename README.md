@@ -64,6 +64,8 @@ Projeto que utiliza uma variedade de tecnologias de desenvolvimento web para a c
 
 📍 BrModelo
 
+📍PhpMyadmin
+
 📍 PHP
 
 📍 HTML
