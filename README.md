@@ -3,7 +3,7 @@
 
 Um parágrafo da descrição do projeto vai aqui
 
-## Diagrama de Entidade e Relacionamento
+# Diagrama de Entidade e Relacionamento
 ![image](https://github.com/vanessamarinh0/TRABALHO-DE-BANCO-DE-DADOS/assets/111614156/34771733-a8f0-4130-8ffb-fd8988b34d18)
 
 
@@ -79,5 +79,5 @@ Projeto que utiliza uma variedade de tecnologias de desenvolvimento web para a c
 [Pedro Wesley](https://github.com/byID887766pedro)
 
 
-* **Criador da ** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - https://github.com/AlanaLopes, 
+* **Criador do Diagrama de Entidade e Relacionamento** - *BrModelo* - [Júlia Barros](https://github.com/Juliabarros-info) 
+* **Desenvolvedores** - *PHP, HTML, CSS* - [Alanna Lopes](https://github.com/AlanaLopes), [Pedro Wesley](https://github.com/byID887766pedro)
