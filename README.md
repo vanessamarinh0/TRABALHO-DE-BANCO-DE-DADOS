@@ -3,7 +3,7 @@
 
 Um parágrafo da descrição do projeto vai aqui
 
-## Iniciando nosso Mini-Mundo
+## Diagrama de Entidade e Relacionamento
 ![image](https://github.com/vanessamarinh0/TRABALHO-DE-BANCO-DE-DADOS/assets/111614156/34771733-a8f0-4130-8ffb-fd8988b34d18)
 
 
@@ -45,45 +45,8 @@ Um parágrafo da descrição do projeto vai aqui
         produto(**cod_produto**, cod_funcionario,tipo_produto, marca_produto,valor_produto)
             cod_funcionario referencia funcionario
 
-      
-   
-### 🔧 Instalação
-
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será:
-
-```
-Dar exemplos
-```
-
-E repita:
-
-```
-Até finalizar
-```
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
-
-## ⚙️ Executando os testes
-
-Explicar como executar os testes automatizados para este sistema.
-
-### 🔩 Analise os testes de ponta a ponta
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-### ⌨️ E testes de estilo de codificação
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
+# Modelo Lógico - BrModelo
+![img](https://github.com/vanessamarinh0/TRABALHO-DE-BANCO-DE-DADOS/assets/111614156/7404c4ca-5692-42fb-a079-70df69cc3117)
 
 ## 👩🏻‍💻 Tecnologias utilizadas
 Projeto que utiliza uma variedade de tecnologias de desenvolvimento web para a criação de um sistema com conexão com o banco de dados:
@@ -103,7 +66,7 @@ Projeto que utiliza uma variedade de tecnologias de desenvolvimento web para a c
 📍 GitHub
 
 ## 👥 Autores
-[Alanna Lopes]()
+[Alanna Lopes](https://github.com/AlanaLopes)
 
 [Ana Luiza]()
 
@@ -116,5 +79,5 @@ Projeto que utiliza uma variedade de tecnologias de desenvolvimento web para a c
 [Pedro Wesley](https://github.com/byID887766pedro)
 
 
-* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
-* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
+* **Criador da ** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
+* **Fulano De Tal** - *Documentação* - https://github.com/AlanaLopes, 
