@@ -1,7 +1,7 @@
 # TRABALHO-DE-BANCO-DE-DADOS
-# Mercado 
+# Mercantil 
 
-Um parágrafo da descrição do projeto vai aqui
+No nosso trabalho optamos por apresentar um sistema de um mercantil que consiste no cadastro dos clientes que fazem sua compra do mês no estabelecimento. Dentro desse cadastro vai estar contidas informações tanto do cliente quanto do produto que esse indivíduo efetuou a compra, como também informações da pessoa que vendeu a mercadoria para o cliente. Portanto o cadastro é baseado na relação de cliente até a venda do produto.
 
 # Diagrama de Entidade e Relacionamento
 ![image](https://github.com/vanessamarinh0/TRABALHO-DE-BANCO-DE-DADOS/assets/111614156/34771733-a8f0-4130-8ffb-fd8988b34d18)
