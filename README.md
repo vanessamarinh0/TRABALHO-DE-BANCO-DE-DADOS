@@ -75,7 +75,9 @@ Projeto que utiliza uma variedade de tecnologias de desenvolvimento web para a c
 
 📍PhpMyadmin
 
-📍 PHP
+📍 MySQL
+
+📍 SQL
 
 📍 HTML
 
