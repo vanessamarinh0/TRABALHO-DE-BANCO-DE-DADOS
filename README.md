@@ -113,7 +113,9 @@ Código SQL é inserido no banco de dados para criar as tabelas, neles cada enti
 	    FOREIGN KEY (fk_funcionario_cod_funcionario)
 	    REFERENCES funcionario (cod_funcionario)
 	    ON DELETE RESTRICT;
-    
+     
+![codigo php](https://github.com/vanessamarinh0/TRABALHO-DE-BANCO-DE-DADOS/assets/111614156/8e31cd63-ce30-4c20-8196-8c227aeec5a1)
+
 ## inserirdados.sql
 Insere dados nas tabelas.
 
@@ -165,6 +167,10 @@ Insere dados nas tabelas.
 	(8,'Alimentos', 'Nestlé', 20.01,8,8),
 	(9,'Eletrônico', 'Sony', 19.99,9,9),
 	(10, 'Vestuário', 'Nike', 9.99,10,10);
+
+![inserir php](https://github.com/vanessamarinh0/TRABALHO-DE-BANCO-DE-DADOS/assets/111614156/bf328410-3dc6-4222-b023-1eead1425357)
+![inserir](https://github.com/vanessamarinh0/TRABALHO-DE-BANCO-DE-DADOS/assets/111614156/f7174e14-c708-416d-9a63-f4aaf04e60fd)
+
 
 ## conexao.php
 Arquivo que conecta ao banco de dados.
@@ -221,6 +227,8 @@ Cria um cabeçalho para todas as páginas php.
 	        </div>
 	    </nav>
 
+![hea der php](https://github.com/vanessamarinh0/TRABALHO-DE-BANCO-DE-DADOS/assets/111614156/5234a16d-0aab-453a-8a18-4a2582aaee85)
+
 ## mercantil.php
 Página inicial que direciona para outras páginas.
 	
@@ -247,6 +255,9 @@ Página inicial que direciona para outras páginas.
 	    </div>
 	</body>
 	</html>
+
+ ![mer cantil php](https://github.com/vanessamarinh0/TRABALHO-DE-BANCO-DE-DADOS/assets/111614156/9757f084-a140-46e6-87f9-002949acd764)
+
 ## index.php
 Página php para salvar informações das respectivas entidades criadas no modelo relacional (cliente, compra, funcionário e produto).
 	
@@ -343,8 +354,9 @@ Página php para salvar informações das respectivas entidades criadas no model
 	    </form>
 	</body>
 	</html>
- 
-## salvar.php
+ ![index phpp](https://github.com/vanessamarinh0/TRABALHO-DE-BANCO-DE-DADOS/assets/111614156/393973fd-fd51-469c-91ec-f544d9053789)
+
+ ## salvar.php
 Código utilizado para salvar as informações inseridas, das respectivas entidades, no banco de dados.
 
 	<?php
@@ -629,6 +641,9 @@ Os resultados das consultas.
 	    
 	</body>
 	</html>
+
+ ![tabela phpp](https://github.com/vanessamarinh0/TRABALHO-DE-BANCO-DE-DADOS/assets/111614156/a42376af-bbc1-4479-96ff-46965589d2b7)
+
  ## graficos.php
  Gráfico referente as respectivas entidades.
  
@@ -707,6 +722,8 @@ Projeto que utiliza uma variedade de tecnologias de desenvolvimento web para a c
 📍 BrModelo
 
 📍PhpMyadmin
+
+📍PHP
 
 📍 MySQL
 
