@@ -732,8 +732,6 @@ Projeto que utiliza uma variedade de tecnologias de desenvolvimento web para a c
 
 📍 HTML
 
-📍 CSS
-
 📍 Visual Studio Code (VSCode)
 
 📍 GitHub
@@ -753,7 +751,7 @@ Projeto que utiliza uma variedade de tecnologias de desenvolvimento web para a c
 
 
 * **Criador do Diagrama de Entidade e Relacionamento** - *BrModelo* - [Júlia Barros](https://github.com/Juliabarros-info) 
-* **Desenvolvedores** - *PHP, HTML, CSS, SQL, MySQL* - [Alanna Lopes](https://github.com/AlanaLopes), [Ana Luiza](https://github.com/Nalu2) e [Pedro Wesley](https://github.com/byID887766pedro)
+* **Desenvolvedores** - *PHP, HTML, SQL, MySQL* - [Alanna Lopes](https://github.com/AlanaLopes), [Ana Luiza](https://github.com/Nalu2) e [Pedro Wesley](https://github.com/byID887766pedro)
 * **Criadores do README** - *GitHub* - [Antonio Jhonatta](https://github.com/Jhonatta-oliveira) e [Francisca Vanessa](https://github.com/vanessamarinh0)
 
 ## Fontes consultadas
